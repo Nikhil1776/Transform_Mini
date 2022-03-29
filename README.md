@@ -29,7 +29,7 @@ pip install transform_mql
 ```
 mql setup
 ```
-You will be asked to provide the API you created during setup, so have it handy.
+You will be asked to provide the API you created during setup, so do have it handy.
 ## MQL CLI Example
 Below is a list of common MQL commands.
 
